@@ -1,7 +1,7 @@
 
 
 module bottle_lathe_cap(end_diameter, cap_depth=14, label="",
-    wall_thickness=4, bump_height=1, num_bumps=3, bump_bottom_offset=6,
+    wall_thickness=4, bump_height=1, num_bumps=4, bump_bottom_offset=6,
     num_reference_bumps=4, reference_bump_depth=1,
     point_depth=8, point_angle=50, point_buried_depth=1,
     text_depth=1, font_size=5
